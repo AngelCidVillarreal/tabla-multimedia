@@ -9,7 +9,7 @@ esto es la parte en donde se le indica el encabezado en mi archivo HTML
 
 comandos para abrir el visual code
 en una terminal escribe el siguiente comando
-'code'
+`code`
 ### programcaion
 * item 1
 * item 2
