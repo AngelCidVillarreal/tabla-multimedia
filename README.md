@@ -4,4 +4,11 @@
 ** esto es un texto en negritas **
 __ esto es un texto en cursivas __
 ### programcaion
+* item 1
+* item 2
+* item 3
 ### deportes
+1. rayados
+2. tigres
+3. diablos
+4. águilas
