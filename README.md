@@ -1,5 +1,7 @@
 # tabla-multimedia
 ## contenido.
-###videojuegos
-###programcaion
-###deportes
+### videojuegos
+** esto es un texto en negritas **
+__ esto es un texto en cursivas __
+### programcaion
+### deportes
