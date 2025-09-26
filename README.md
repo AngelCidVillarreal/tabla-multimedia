@@ -2,7 +2,7 @@
 ## contenido.
 ### videojuegos
 **esto es un texto en negritas**
-__esto es un texto en cursivas__
+*esto es un texto en cursiva*
 ### programcaion
 * item 1
 * item 2
