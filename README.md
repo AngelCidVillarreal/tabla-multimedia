@@ -3,6 +3,9 @@
 ### videojuegos
 **esto es un texto en negritas**
 *esto es un texto en cursiva*
+
+esto es la parte en donde se le indica el encabezado en mi archivo HTML
+>H1
 ### programcaion
 * item 1
 * item 2
